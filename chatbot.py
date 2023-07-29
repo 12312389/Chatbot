@@ -44,7 +44,7 @@ pairs = [
     ],
     [
         r"who created (.*) ?",
-        ["RBOT:\tSwetha has created me\U0001f60E"]
+        ["RBOT:\tHarini has created me\U0001f60E"]
     ],
     [
         r"what is (.*) (location|city) ?",
